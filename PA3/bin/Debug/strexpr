@@ -1,0 +1,8 @@
+PROGRAM circle
+	!Assignment of CHAR variable
+	REAL : a, r	
+	CHAR : str1, str2
+    PRINT , "Clean program testing Print statement"
+    str1 = "Hello World!"
+    print ,  str1 
+END PROGRAM circle

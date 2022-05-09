@@ -1,0 +1,10 @@
+PROGRAM circle
+	!Illegal arithmetic add operation
+	REAL : a, r	
+	CHAR : str1, str2
+    PRINT , "Clean program testing Print statement"
+    str1 = "Hello World!"
+    str2 = str1 + " Good Morning."
+    a = 2
+	print , str1, a 
+END PROGRAM circle

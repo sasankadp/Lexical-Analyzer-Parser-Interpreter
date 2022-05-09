@@ -1,0 +1,6 @@
+PROGRAM circle
+	!matching program name
+	REAL : r, a, p, b 	
+	CHAR : str1, str2
+	r = 5
+END PROGRAM circl

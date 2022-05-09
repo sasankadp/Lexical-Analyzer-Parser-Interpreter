@@ -1,0 +1,8 @@
+PROGRAM circle
+	!Mixed type assignment
+	INTEGER : a, r, p, b 	
+	CHAR : str1, str2
+	p = 3.5
+	r = 5.3
+	print , r
+END PROGRAM circle

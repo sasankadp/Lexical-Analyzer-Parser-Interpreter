@@ -1,0 +1,11 @@
+PROGRAM circle
+  !Illegal mixed type operands
+  INTEGER : r , b , a , p 	
+  CHAR : str1, str2
+  PRINT , "Clean program testing Print statement"
+  str1 = "Hello World!"
+  b = 5 * str1
+  a = b / 2
+  !Display the results
+  PRINT , a, b 
+END PROGRAM circle

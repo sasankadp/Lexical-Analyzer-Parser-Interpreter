@@ -1,0 +1,10 @@
+PROGRAM circle
+  !testing assignment and printing of string variables 
+  INTEGER : r , b , a , p 	
+  CHAR : str1, str2
+  PRINT , "Clean program testing Print statement"
+  str1 = "Hello World!"
+  str2 = str1
+  !Display the results
+  PRINT , str1 , " ", str2
+END PROGRAM circle

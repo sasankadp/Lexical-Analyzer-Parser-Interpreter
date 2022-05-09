@@ -1,0 +1,7 @@
+PROGRAM circle
+	!Mixed type assignment
+	REAL : r, a, p, b 	
+	CHAR : str1, str2
+	r = -5
+	print , r
+END PROGRAM circle

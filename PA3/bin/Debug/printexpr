@@ -1,0 +1,11 @@
+PROGRAM circle
+  !Clean program testing Print statement and expression evaluation
+  INTEGER : r , b , a , p 	
+  CHAR : str1, str2
+  PRINT , "Clean program testing Print statement"
+  a = 1
+  b = 3
+  r = 4
+  !Display the results
+  PRINT , "The output results are " , a+b, " ", r*b, " ", -b
+END PROGRAM circle

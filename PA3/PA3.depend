@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1619997216 source:d:\work\njit\courses\cs 280\pa\pa3_sasanka_paththameistreege\pa3\lex.cpp
+	<cctype>
+	<map>
+	"lex.h"
+
+1619989698 d:\work\njit\courses\cs 280\pa\pa3_sasanka_paththameistreege\pa3\lex.h
+	<string>
+	<iostream>
+	<map>
+
+1618796167 source:d:\work\njit\courses\cs 280\pa\pa3_sasanka_paththameistreege\pa3\prog3.cpp
+	<iostream>
+	<fstream>
+	"lex.h"
+	"val.h"
+	"parserInt.h"
+
+1619996351 d:\work\njit\courses\cs 280\pa\pa3_sasanka_paththameistreege\pa3\val.h
+	<iostream>
+	<string>
+	<queue>
+	<map>
+
+1619997538 d:\work\njit\courses\cs 280\pa\pa3_sasanka_paththameistreege\pa3\parserint.h
+	<iostream>
+	"lex.h"
+	"val.h"
+
+1618680636 source:d:\work\njit\courses\cs 280\pa\pa3_sasanka_paththameistreege\pa3\val.cpp
+	"val.h"
+
+1619997471 source:d:\work\njit\courses\cs 280\pa\pa3_sasanka_paththameistreege\pa3\parserint.cpp
+	<string.h>
+	"parserInt.h"
+	<iostream>
+	"lex.h"
+	"val.h"
+

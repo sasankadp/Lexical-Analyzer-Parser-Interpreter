@@ -1,0 +1,9 @@
+PROGRAM circle
+  !Divide by zero execution error
+  INTEGER : r , b , a , p 	
+  CHAR : str1, str2
+  b = 5 * 3
+  a = b / 0
+  !Display the results
+  PRINT , a, b 
+END PROGRAM circle

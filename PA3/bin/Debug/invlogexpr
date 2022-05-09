@@ -1,0 +1,13 @@
+PROGRAM circle
+	!Invalid logic expression mixed operands
+	REAL : r, a, p, b 	
+	CHAR : str1, str2
+	str1 = "Hi"
+	r = 3
+	a = (3.14) * r * r
+	IF ( r < str1) THEN
+	  p = 2 * 3.14 * a 
+	  print, p
+	END IF
+	
+END PROGRAM circle

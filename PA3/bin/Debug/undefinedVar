@@ -1,0 +1,11 @@
+PROGRAM circle
+	!Use of Undefined variable case
+	REAL : r, a, p, b 	
+	CHAR : str1, str2
+	a = (3.14) * r * r
+	IF ( r == 5) THEN
+	  p = 2 * 3.14 * b 
+	  print, p
+	END IF
+	
+END PROGRAM circle
